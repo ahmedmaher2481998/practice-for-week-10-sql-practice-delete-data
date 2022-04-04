@@ -53,7 +53,7 @@ Delete all puppies which are __NOT__ `microchipped`.
 ## Step 3: Final result
 
 If all `DELETE`s worked as expected, you will see the following data when you 
-run `SELECT * FROM puppoies;`.
+run `SELECT * FROM puppies;`.
 
 | `id` | `name`   | `age_yrs` | `breed`             | `weight_lbs` | `microchipped` |
 | ---- | -------- | --------- | ------------------- | ------------ | -------------- |
